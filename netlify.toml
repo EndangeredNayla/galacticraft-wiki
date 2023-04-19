@@ -3,3 +3,9 @@
   to = ""
   force=true
   
+  [[redirects]]
+  from = "Main_Page.html"
+  to = "index.html"
+  force=true
+  
+  
